@@ -18,3 +18,6 @@ using this **<a href="https://docs.google.com/spreadsheets/d/1THlZrzMiRK-98Rsx_C
 * **Sort by highest score:** Apply filter and sort by the column showing the highest individual score, from highest to lowest. 
 * **Conditional formatting:** Use conditional formatting to highlight the highest and lowest values in Column E, using color scales or specific rules like "Top 10%" and "Bottom 10%" to visually distinguish them. 
 * **IF Functions:** create an IF function that identifies students who need additional support based on the condition on the students' Average scores. 
+
+
+![https://github.com/MDRSamson/Excel/blob/6274c7d93f3d807bf8f6669a05f13810b3f0172f/Task%201-7.jpg](https://github.com/MDRSamson/Excel/blob/6274c7d93f3d807bf8f6669a05f13810b3f0172f/Task%201-7.jpg)
