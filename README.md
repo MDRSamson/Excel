@@ -28,4 +28,5 @@ using this **<a href="https://docs.google.com/spreadsheets/d/1R_JbkuPvA2ZpAcrwha
 ![https://github.com/MDRSamson/Excel/blob/02258cf47f4de88a3344a965e4c30a206f27187a/Task%201-1.jpg](https://github.com/MDRSamson/Excel/blob/02258cf47f4de88a3344a965e4c30a206f27187a/Task%201-1.jpg)
 
 * **Switch Function:** Create a Pivot Table to summarise the data by county and product. Use the SWITCH function to categorise products based on their sales volume.
+![https://github.com/MDRSamson/Excel/blob/4dfd3a0932b8b58050302aa9f017b53dc3c1b40a/Task%202-1.jpg](https://github.com/MDRSamson/Excel/blob/4dfd3a0932b8b58050302aa9f017b53dc3c1b40a/Task%202-1.jpg)
 
