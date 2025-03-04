@@ -7,7 +7,7 @@ using this **<a href="https://docs.google.com/spreadsheets/d/1THlZrzMiRK-98Rsx_C
 * **Create a table:** Select data in columns A-H, go to Insert > Table, and click OK.
 * **Sort by Age:** Click the drop-down arrow in the Age column, then choose Sort Largest to Smallest.
 * **SUM function:** In cell P10, enter **=SUM(range)** to calculate the total commission.
-* **AVERAGE function:** In cell P11, enter **=AVERAGE(range)** to calculate the average commission.
+* **AVERAGE function:** In cell P11, enter **=AVERAGE(range)** to calculate the average commission.\
 ![https://github.com/MDRSamson/Excel/blob/f9a11c0b411473572ffa235fd5770c242accc165/Picture7.png](https://github.com/MDRSamson/Excel/blob/f9a11c0b411473572ffa235fd5770c242accc165/Picture7.png)
 
 ### Use of conditional formatting and IF function
@@ -27,6 +27,17 @@ using this **<a href="https://docs.google.com/spreadsheets/d/1R_JbkuPvA2ZpAcrwha
 * **Create Pivot Table Chart:** Use a stacked column chart to visualize the data. Identify trends, such as the youth age group having the lowest sales globally. Adjust the chart to show aggregated sales data across age groups.\
 ![https://github.com/MDRSamson/Excel/blob/02258cf47f4de88a3344a965e4c30a206f27187a/Task%201-1.jpg](https://github.com/MDRSamson/Excel/blob/02258cf47f4de88a3344a965e4c30a206f27187a/Task%201-1.jpg)
 
-* **Switch Function:** Create a Pivot Table to summarise the data by county and product. Use the SWITCH function to categorise products based on their sales volume.
+* **Switch Function:** Create a Pivot Table to summarise the data by county and product. Use the SWITCH function to categorise products based on their sales volume.\
 ![https://github.com/MDRSamson/Excel/blob/4dfd3a0932b8b58050302aa9f017b53dc3c1b40a/Task%202-1.jpg](https://github.com/MDRSamson/Excel/blob/4dfd3a0932b8b58050302aa9f017b53dc3c1b40a/Task%202-1.jpg)
+![https://github.com/MDRSamson/Excel/blob/1a6e2df4d5d8b3491eebf8bd67c7b4815ca1aa9b/Task%202-2.jpg](https://github.com/MDRSamson/Excel/blob/1a6e2df4d5d8b3491eebf8bd67c7b4815ca1aa9b/Task%202-2.jpg)
 
+### Visualisations
+using this **<a href="https://docs.google.com/spreadsheets/d/1HtgtdrIvYvkVEvGQ8ANFHy1K_-6kisSV/edit?usp=sharing&ouid=102089252926255319219&rtpof=true&sd=true" target="_blank">Bike Sale Visualisation Dataset</a>**
+* **Create a Line Chart:** Use profit and revenue data.
+* **Create a Column Chart:** Use revenue data by country for different products categories.
+* **Create a Pie Chart:** Use revenue data by age group. \
+![https://github.com/MDRSamson/Excel/blob/1a6e2df4d5d8b3491eebf8bd67c7b4815ca1aa9b/Task%203-1.jpg](https://github.com/MDRSamson/Excel/blob/1a6e2df4d5d8b3491eebf8bd67c7b4815ca1aa9b/Task%203-1.jpg)
+![https://github.com/MDRSamson/Excel/blob/1a6e2df4d5d8b3491eebf8bd67c7b4815ca1aa9b/Task%203-2.jpg](https://github.com/MDRSamson/Excel/blob/1a6e2df4d5d8b3491eebf8bd67c7b4815ca1aa9b/Task%203-2.jpg)
+![https://github.com/MDRSamson/Excel/blob/1a6e2df4d5d8b3491eebf8bd67c7b4815ca1aa9b/Task%203-3.jpg](https://github.com/MDRSamson/Excel/blob/1a6e2df4d5d8b3491eebf8bd67c7b4815ca1aa9b/Task%203-3.jpg)
+
+***<a href="https://github.com/MDRSamson/MaryDawnSamson-Portfolio" target="_blank">Back to Portfolio</a>***
