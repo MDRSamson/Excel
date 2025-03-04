@@ -24,4 +24,8 @@ using this **<a href="https://docs.google.com/spreadsheets/d/1THlZrzMiRK-98Rsx_C
 ### Using Pivot Tables
 using this **<a href="https://docs.google.com/spreadsheets/d/1R_JbkuPvA2ZpAcrwhaIqatJ7Cr_wT9Yq/edit?usp=sharing&ouid=102089252926255319219&rtpof=true&sd=true" target="_blank">Bike Sale Dataset</a>**
 * **Pivot Table:** Set up Pivot Table while selecting the relevant fields e.g., Year, Age Group, Country, Order Quantity. 
-* **Create Pivot Table Chart:** Use a stacked column chart to visualize the data. Identify trends, such as the youth age group having the lowest sales globally. Adjust the chart to show aggregated sales data across age groups.
+* **Create Pivot Table Chart:** Use a stacked column chart to visualize the data. Identify trends, such as the youth age group having the lowest sales globally. Adjust the chart to show aggregated sales data across age groups.\
+![https://github.com/MDRSamson/Excel/blob/02258cf47f4de88a3344a965e4c30a206f27187a/Task%201-1.jpg](https://github.com/MDRSamson/Excel/blob/02258cf47f4de88a3344a965e4c30a206f27187a/Task%201-1.jpg)
+
+* **Switch Function:** Create a Pivot Table to summarise the data by county and product. Use the SWITCH function to categorise products based on their sales volume.
+
